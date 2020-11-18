@@ -1,0 +1,20 @@
+﻿  Reading Qt configuration (C:\Qt\5.14.2\msvc2017_64\bin\qmake.exe)
+  uic test.ui
+  rcc test.qrc
+  moc test.h
+   RCC: Warning: No resources in 'C:\Users\Asus\Desktop\Sem2\OOP\Lab13-14\test\test.qrc'.
+  ui.cpp
+  validation.cpp
+  gui_movie.cpp
+  model.cpp
+  Repo.cpp
+  service.cpp
+  test.cpp
+  main.cpp
+C:\Users\Asus\Desktop\Sem2\OOP\Lab13-14\test\model.cpp(80): warning C4715: 'cmp_title': not all control paths return a value
+C:\Users\Asus\Desktop\Sem2\OOP\Lab13-14\test\model.cpp(110): warning C4715: 'cmp_year': not all control paths return a value
+C:\Users\Asus\Desktop\Sem2\OOP\Lab13-14\test\model.cpp(128): warning C4715: 'cmp_actor': not all control paths return a value
+C:\Users\Asus\Desktop\Sem2\OOP\Lab13-14\test\model.cpp(98): warning C4715: 'cmp_genre': not all control paths return a value
+  qrc_test.cpp
+  moc_test.cpp
+  test.vcxproj -> C:\Users\Asus\Desktop\Sem2\OOP\Lab13-14\test\x64\Debug\test.exe

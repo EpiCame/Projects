@@ -1,0 +1,4 @@
+C:\Users\Asus\Desktop\OOP\Lab13-14\test\x64\Debug\test.exe
+C:\Users\Asus\Desktop\OOP\Lab13-14\test\x64\Debug\test.pdb
+C:\Users\Asus\Desktop\Sem2\OOP\Lab13-14\test\x64\Debug\test.exe
+C:\Users\Asus\Desktop\Sem2\OOP\Lab13-14\test\x64\Debug\test.pdb

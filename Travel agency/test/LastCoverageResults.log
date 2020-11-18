@@ -1,0 +1,22 @@
+[2020-05-07 14:35:52] [info] Start Program:
+Path:"C:\\Users\\Asus\\Desktop\\OOP\\Lab10-11\\Movies_GUI\\x64\\Debug\\Movies_GUI.exe"
+Arguments:
+Working directory: "C:\\Users\\Asus\\Desktop\\OOP\\Lab10-11\\Movies_GUI\\"
+Modules: Selected: C:\Users\Asus\Desktop\OOP\Lab10-11\Movies_GUI\x64\Debug\Movies_GUI.exe Excluded: 
+Sources: Selected: C:\Users\Asus\Desktop\OOP\Lab10-11\Movies_GUI Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Asus\AppData\Local\Temp\dbmrrfre.r1m 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2020-05-07 14:35:52] [info] Module: C:\Users\Asus\Desktop\OOP\Lab10-11\Movies_GUI\x64\Debug\Movies_GUI.exe is selected because it matches selected pattern: C:\Users\Asus\Desktop\OOP\Lab10-11\Movies_GUI\x64\Debug\Movies_GUI.exe
+[2020-05-07 14:35:52] [info] ----------------------------------------------------
+[2020-05-07 14:35:52] [info] Coverage binary generated in file: C:\Users\Asus\AppData\Local\Temp\dbmrrfre.r1m
+[2020-05-07 14:35:52] [info] ----------------------------------------------------
+[2020-05-07 14:35:52] [error] Your program stop with error code: -1073741515
