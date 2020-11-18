@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1465985860 source:d:\9_e\new era popa\sudoku\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<cstring>
+	<cstdlib>
+
+1465985860 source:c:\users\bogdan\desktop\sudoku\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<cstring>
+	<cstdlib>
+
+1569336614 source:c:\users\asus\downloads\transfer\sudoku\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<cstring>
+	<cstdlib>
+
